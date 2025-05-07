@@ -1,25 +1,17 @@
 {
-  "name": "ep02",
+  "name": "ep04",
   "version": "1.0.0",
-  "description": "This is episode 2 of namaste react",
-  "main": "index.js",
+  "description": "",
   "scripts": {
-    "start" : "parcel index.html",
-    "build" : "parcel build index.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
-  "keywords": [
-    "react",
-    "namaste",
-    "react"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.14.4"
-  },
-  "dependencies": {
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "@babel/core": "^7.27.1",
+    "parcel": "^2.9.3"
   }
 }
